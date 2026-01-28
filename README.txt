@@ -49,7 +49,7 @@ Real-time dashboard updates
 Export attendance reports (CSV/PDF)
 
 Rishe: 
-Data Analytics & Presentation Lead 📊
+Data Analytics & Presentation Lead 
 Primary Responsibility: Energy Analytics + Demo Preparation + Pitch
 Tasks:
 
